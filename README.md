@@ -149,6 +149,12 @@ cd SpringMicroservices/microservice-student
 mvn test
 ```
 
+## 📞 Support
+
+For questions or support, please contact:
+- Email: grasmitkatharotiya0304@gmail.com
+- GitHub Issues: [Create an issue](https://github.com/Grasmit/EduMicroServices/issues)
+
 ## 🤝 Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests.
